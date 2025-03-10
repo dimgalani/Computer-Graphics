@@ -1,1 +1,2 @@
 # Computer-Graphics
+This repository contains the Python files and the reports for the "Computer Graphics" course offered in the 8th semester of the Electrical and Computer Engineering Department at Aristotle University of Thessaloniki. Contains two triangle filling methods, methods for the transformation and the projection of an object in a canvas, and finally the view of an object when we add a lighting source.
